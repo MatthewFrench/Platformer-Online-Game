@@ -1,0 +1,3 @@
+Todo:
+* Add names and scoreboard
+* Fix minimap

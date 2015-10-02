@@ -1,0 +1,4 @@
+- Make minimap have the same aspect ratio
+- Group updates of cannons and players into packets of 1300 bytes or less
+- Make counters use clocks for precision
+- Make code well memory managed
